@@ -6,7 +6,7 @@
 
   <br />
 
-  [![Portofolio](https://img.shields.io/badge/🌍_Kunjungi_Portofolio_Saya-000000?style=for-the-badge&logoColor=white)]([https://nadhifhafizp.github.io](https://nadhif-portofolio.vercel.app/))
+  [![Portofolio](https://img.shields.io/badge/🌍_Kunjungi_Portofolio_Saya-000000?style=for-the-badge&logoColor=white)](https://nadhif-portofolio.vercel.app/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadhif-hafiz-pradiptya/)
   [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nadhifhafizz/)
   [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nadhifhafizp@gmail.com)
